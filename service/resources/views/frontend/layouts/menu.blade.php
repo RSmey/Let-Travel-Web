@@ -13,7 +13,7 @@
                         <nav>
                             <ul>
                                 <li><a href="{{ route('home')}}" class="active">home</a></li>
-                                <li><a href="{{ route('about-us')}}">about</a></li>
+                                <li><a href="{{ route('about-us')}}" class="active">about</a></li>
                                 <li><a href="{{ route('resort')}}">resort</a>
                                     {{-- <ul class="sub-menu">
                                         <li><a href="event.html">event</a></li>
