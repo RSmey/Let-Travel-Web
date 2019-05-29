@@ -31,7 +31,7 @@
                                     </ul>
                                 </li> --}}
                                 {{-- <li><a href="gallery.html">gallery</a></li> --}}
-                                <li><a href="{{ route('contact-us')}}">contact us</a></li>
+                                <li><a href="{{ route('contact-us')}}" class="text-primary">contact us</a></li>
                             </ul>
                         </nav>
                     </div>
