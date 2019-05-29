@@ -38,15 +38,15 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     line-height: 1.42857143;
-    color: #424e59;
-    background-color: #fff;
+    color: #e1e1e1;
+    background-color: #424e59;
 }
 h1,h2,h3,h4,h5,h6,
 .h1,.h2,.h3,.h4,.h5,.h6{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     line-height: 1.1;
-    color: #2f3942;
+    color: #f8f9fa;
     margin: 0;
 }
 p{
@@ -1191,7 +1191,7 @@ h1.cy_heading {
     margin: 27px 0px 8px;
 }
 .cy_event_data h2 a {
-    color: #2f3942;
+    color: #f8f9fa;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1472,7 +1472,7 @@ span.ev_yr {
     margin-bottom: 10px;
 }
 .cy_races_data h2 a{
-    color:#2f3942;
+    color:#f8f9fa;
     display: inline-block;
 }
 .cy_races_data h2 a:hover{
@@ -1650,7 +1650,7 @@ span.ev_yr {
     width: 50%;
     float: left;
     text-align:left;
-    color:#2f3942;
+    color:#f8f9fa;
 }
 .cy_store_box .cy_store_data .cy_store_text h3 a:hover{
 	color:#ff712a;
@@ -1882,7 +1882,7 @@ ul.cy_blog_info li {
     list-style: none;
 }
 ul.cy_blog_info li a {
-    color: #2f3942;
+    color: #f8f9fa;
     font-size: 15px;
     text-transform: capitalize;
     padding: 0px 10px;
@@ -1941,7 +1941,7 @@ ul.cy_blog_info li:last-child a {
     margin: 16px 0px 10px 0px;
 }
 .cy_blog_data h2 a {
-    color: #2f3942;
+    color: #f8f9fa;
 }
 .cy_blog_data p {
     line-height: 27px;
